@@ -8,6 +8,7 @@
 </a>
 
 <br/>
+<br/>
 
 My name is Shiwei. I'm a full stack web developer and competitive programmer, living in Cupertino, California. 
 
