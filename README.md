@@ -10,8 +10,7 @@
 <br/>
 <br/>
 
-My name is Shiwei. I'm a full stack web developer and competitive programmer, living in Cupertino, California. 
+Thanks for visiting my Github! My name is Shiwei. I'm a full stack web developer and competitive programmer, living in Cupertino, California. 
 
-- 🌱 I’m currently learning Full-Stack technologies like Django, React, SQL, and Material UI
-- 👯 I’m looking to collaborate with people in Hackathons! Feel free to reach out if you're looking for a teammate!
-- 📫 How to reach me: shiweichen06@gmail.com
+- 🌱 I’m currently learning Full-Stack technologies like Typescript, Node.js, GraphQL, and noSQL databases.
+- 📫 How to reach me: aprilschen6@gmail.com
