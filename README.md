@@ -18,6 +18,6 @@ I'm looking for work as a full-time developer. Feel free to reach out!
 
 <br/>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=aprilschen&count_private=true&show_icons=true" height="200dp"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprilschen&layout=compact&hide_progress=true" height="200dp" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aprilschen&count_private=true&show_icons=true" height="150dp"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprilschen&layout=compact&hide_progress=true" height="150dp" />
 </div>
