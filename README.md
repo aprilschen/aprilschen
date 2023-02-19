@@ -11,7 +11,7 @@
 
 <br/>
 
-Thanks for visiting my Github! I'm a full-stack web developer, and part time CS/Math major at De Anza College, teaching web development and competitive programming to students in Bay Area.
+Thanks for visiting my Github! I'm a full-stack web developer, and part time CS major at De Anza College, teaching web development and competitive programming to students in Bay Area.
 
 I'm looking for work as a full-time developer. Feel free to reach out!
 📫 aprilschen6@gmail.com
