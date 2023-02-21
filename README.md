@@ -11,7 +11,7 @@
 
 <br/>
 
-Thanks for visiting my Github! I'm a freelance full-stack developer, programming teacher, and part time Computer Science major at De Anza College. I'm broadly interested in algorithms, web design, and full-stack applications. I also happen to own two Shibas. you can check them out [here!](https://www.instagram.com/alanspups/)
+Thanks for visiting my Github! I'm a freelance full-stack developer, programming teacher, and part time Computer Science major at De Anza College. I'm broadly interested in algorithms, web design, and full-stack applications. I also happen to own two (very cute) Shibas. You can check them out [here!](https://www.instagram.com/alanspups/)
 
 I'm looking for work as a full-time developer. Feel free to reach out!
 📫 aprilschen6@gmail.com
