@@ -1,8 +1,4 @@
 ### Hi there 👋
-<a href="https://www.linkedin.com/in/schen15/">
-  <img align="left" alt="Shiwei's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 <a href="https://www.instagram.com/shiwei_chen06/">
   <img align="left" alt="Shiwei's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
