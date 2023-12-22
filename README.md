@@ -17,7 +17,7 @@
 
 Thanks for visiting my Github! I'm a freelance full-stack developer, programming teacher, and part time Computer Science major at De Anza College. I'm broadly interested in algorithms, machine learning, and full-stack applications. I also happen to own two (very cute) Shibas <3
 
-I'm looking for work as a full-time developer. Feel free to reach out!
+I'm looking for work as a [full-time developer](https://drive.google.com/file/d/13PNxYak6UoAdd4GDKUCROU5Rkfghqwt3/view?usp=sharing). Feel free to reach out!
 📫 aprilschen6@gmail.com
 
 <br/>
