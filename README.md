@@ -1,6 +1,14 @@
 ### Hi there 👋
+<a href="https://www.linkedin.com/in/schen15/">
+  <img align="left" alt="Shiwei's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
+</a>
+
 <a href="https://www.instagram.com/shiwei_chen06/">
   <img align="left" alt="Shiwei's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+
+<a href="https://www.youtube.com/channel/UCAdBU-8zvj-W6T5hzwg3VrA">
+  <img align="left" alt="Shiwei's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/youtube" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/106645644/219537919-87e27780-4865-4c1d-9b0b-56a972d28e2b.gif" width="30vw" height="20vh"/>
