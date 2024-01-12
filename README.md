@@ -17,7 +17,7 @@
 
 Thanks for visiting my Github! I'm a software engineer, programming teacher, and Computer Science major at De Anza College. I'm broadly interested in algorithms, machine learning, and databases. I also happen to own two (very cute) Shibas, which you can find [here](https://www.instagram.com/inothedoggo/)!
 
-I'm looking for work as a [full-time developer](https://drive.google.com/file/d/13PNxYak6UoAdd4GDKUCROU5Rkfghqwt3/view?usp=sharing). Feel free to reach out!
+I'm currently looking for [full-time engineering roles](https://docs.google.com/document/d/1hQIxyyIi0-hMo99VaBnfjESfUH4AGXYymgQla-B7qD4/edit#heading=h.sgdbnfu2yqlm). Feel free to reach out!
 📫 aprilschen6@gmail.com
 
 <br/>
