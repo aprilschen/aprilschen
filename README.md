@@ -18,7 +18,7 @@
 Thanks for visiting my Github! I'm a software engineer, programming teacher, and Computer Science major at De Anza College. I'm broadly interested in algorithms, machine learning, and databases. I also happen to own two (very cute) Shibas, which you can find [here](https://www.instagram.com/inothedoggo/)!
 
 I'm currently looking for [full-time engineering roles](https://www.aprilschen.com/files/resume.pdf). Feel free to reach out!
-📫 aprilschen6@gmail.com
+📫 aprilschen@berkeley.edu
 
 <br/>
 <div>
