@@ -15,7 +15,7 @@
 
 <br/>
 
-Thanks for visiting my Github! I'm a software engineer, programming teacher, and Mathematics major at UC Berkeley. I'm broadly interested in applied mathematics, and machine learning. I also happen to own two (very cute) Shibas, which you can find [here](https://www.instagram.com/inothedoggo/)!
+Thanks for visiting my Github! I'm a software engineer, competitive programmer, and mathematics major at UC Berkeley. I'm broadly interested in applied mathematics, and machine learning. I also happen to own two (very cute) Shibas, which you can find [here](https://www.instagram.com/inothedoggo/)!
 
 I'm currently looking for [full-time engineering roles](https://www.aprilschen.com/files/resume.pdf), and you can find more about me [here](https://www.aprilschen.com/). Feel free to reach out!
 📫 aprilschen@berkeley.edu
