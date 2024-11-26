@@ -18,7 +18,7 @@
 Thanks for visiting my Github! I'm an incoming software engineer at Uncountable Inc., and MS in Computer Science at Georgia Tech. I'm broadly interested in machine learning and computational science, which was the focus of my undergrad at Berkeley. I also happen to own two (very cute) Shibas, which you can find [here](https://www.instagram.com/inothedoggo/)!
 
 I'm currently looking for [full-time engineering roles](https://www.aprilschen.com/files/shiwei_chen_resume.pdf), and you can find more about me [here](https://www.aprilschen.com/). Feel free to reach out!
-📫 aprilschen@berkeley.edu
+📫 aprilschen@gatech.edu
 
 <br/>
 <div>
