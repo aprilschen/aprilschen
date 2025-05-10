@@ -17,7 +17,7 @@
 
 Thanks for visiting my Github! I'm a software engineer at Uncountable Inc., and MS in Computer Science at Georgia Tech. I'm broadly interested in machine learning and computer systems, which is the focus of my Masters at GT. I also happen to own two (very cute) Shibas, which you can find [here](https://www.instagram.com/inothedoggo/)!
 
-You can find more about me [here](https://www.aprilschen.com/). Feel free to reach out!
+Feel free to reach out!
 📫 aprilschen@gatech.edu
 
 <br/>
