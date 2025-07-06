@@ -11,8 +11,6 @@
   <img align="left" alt="Youtube" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/youtube.png" />
 </a>
 
-<img src="https://user-images.githubusercontent.com/106645644/219537919-87e27780-4865-4c1d-9b0b-56a972d28e2b.gif" width="30vw" height="20vh"/>
-
 <br/>
 
 Thanks for visiting my Github! I'm a software engineer intern at Bytedance, and MS in Computer Science at Georgia Tech. I'm broadly interested in machine learning and computer systems, which is the focus of my Masters at GT. I also happen to own two (very cute) Shibas, which you can find [here](https://www.instagram.com/inothedoggo/)!
