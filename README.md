@@ -13,10 +13,10 @@
 
 <br/>
 
-Thanks for visiting my Github! I'm a software engineer at Bytedance, and MS in Computer Science at Georgia Tech. I'm broadly interested in machine learning and computer systems, which is the focus of my Masters at GT. I also happen to own two (very cute) Shibas, which you can find [here](https://www.instagram.com/inothedoggo/)!
+Thanks for visiting my Github! I'm a software engineer at Bytedance. Previously, I completed my MS in Computer Science at Georgia Tech and BA in Math at Berkeley. I also happen to own two (very cute) Shibas, which you can find [here](https://www.instagram.com/inothedoggo/)!
 
 Feel free to reach out!
-📫 aprilschen@gatech.edu
+📫 shiweichen06@gmail.com
 
 <br/>
 <div>
